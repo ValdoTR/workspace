@@ -566,19 +566,19 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Custom map VEEPEE"
+         "value":"Suitable for up to 60 users.\n\nCroissants for breakfast, they are hot and they come straight from Paris!\nAfter that you can go back to work in one of the desks around you, whether you like open spaces or prefer to work in peace, you are going to have a good day!"
         }, 
         {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/play.workadventu.re\/@\/veepee\/brief-virtual-office\/brussels"
-        }, 
-        {
+        },
+   {
+     "name":"mapLink",
+     "type":"string",
+     "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
+   },
+   {
          "name":"mapName",
          "type":"string",
          "value":"Workspace"
